@@ -1,4 +1,4 @@
-;candidato; percent ; error_final ;entrevistados;Tipo_campo;confidence_interval_final;data_pesquisa;instituto;fonte;N_registro_tse
+id ;candidato; percent ; error_final ;entrevistados;Tipo_campo;confidence_interval_final;data_pesquisa;instituto;fonte;N_registro_tse
 1;Lula; 44,00 ; 3,20 ;1000,00;Telefone;95,50;04/05/2022;IPESP/XP;https://antoniolavareda.com/wp-content/uploads/2022/05/2022_05_01-PESQUISA-IPESPE.pdf;BR-03473/2022
 2;Jair Bolsonaro; 31,00 ; 3,20 ;1000,00;Telefone;95,50;04/05/2022;IPESP/XP;https://antoniolavareda.com/wp-content/uploads/2022/05/2022_05_01-PESQUISA-IPESPE.pdf;BR-03473/2022
 3;Ciro Gomes; 8,00 ; 3,20 ;1000,00;Telefone;95,50;04/05/2022;IPESP/XP;https://antoniolavareda.com/wp-content/uploads/2022/05/2022_05_01-PESQUISA-IPESPE.pdf;BR-03473/2022
